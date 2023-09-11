@@ -53,8 +53,8 @@ git clone https://github.com/omaarelsherif/LCD-Interfacing-With-ATmega32.git
    * Use the USBASP Programmer to flash the ATmega32 with the generated hex file.
 2. Run the Simulation:
    * If you want to simulate the project, open it in Proteus and run the simulation.
-3. Observe the Counter:
-   * The 7-segment display will count from 0 to 9, and the LEDs will correspondingly light up to represent the count.
+3. Observe the LCD:
+   * The LCD will display "Hello, World!".
 
 <!-- OUTPUT -->
 ## <br>**➲ Output**
