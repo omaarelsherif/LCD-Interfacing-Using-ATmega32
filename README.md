@@ -29,11 +29,11 @@ The project is structured as follows:
 * DIO Driver:
   * DIO_Program.c: The source code for the DIO driver functions.
   * DIO_Interface.h: The interface (header) file for the DIO driver.
-  * DIO_Private.h: Private declarations for the DIO driver.
+  * DIO_Register.h: Register addresses for the DIO driver.
 * LCD Driver:
   * LCD_Program.c: Implementation of the LCD driver.
   * LCD_Interface.h: Interface for the LCD driver.
-  * LCD_Private.h: Private declarations and configurations for the LCD driver.
+  * LCD_Config.h: Configurations for the LCD driver.
 
 <!-- GETTING STARTED -->
 ## <br>**➲ Getting Started**

@@ -1,6 +1,15 @@
+/*
+*    LCD_Program.c
+*    Name : Omar Elsherif
+*    Version: 1.0
+*    Date: 10-9-2023
+*    Desc: Code file contains the code for LCD driver 
+*/
+
+// Include header files
 #include "STD_TYPES.h"
 #include <avr/delay.h>
-#include "LCD_Private.h"
+#include "LCD_Config.h"
 #include "DIO_Interface.h"
 #include <avr/delay.h>
 

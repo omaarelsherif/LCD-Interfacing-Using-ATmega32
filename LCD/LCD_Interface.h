@@ -1,3 +1,11 @@
+/*
+*    LCD_Interface.h
+*    Name : Omar Elsherif
+*    Version: 1.0
+*    Date: 10-9-2023
+*    Desc: Header file contains functions prototypes for LCD driver 
+*/
+
 #ifndef LCD_INTERFACE_H
 #define LCD_INTERFACE_H
 
