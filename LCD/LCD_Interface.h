@@ -17,5 +17,6 @@ void LCD_VoidWriteCommand(u8 command);
 void LCD_VoidWriteChar(u8 Char);
 void LCD_VoidWriteString(const u8* String);
 void LCD_VoidWriteNumber(u8 Number);
+void LCD_VoidSetPosition(u8 Row, u8 Column);
 
 #endif

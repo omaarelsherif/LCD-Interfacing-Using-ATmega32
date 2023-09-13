@@ -129,3 +129,15 @@ void LCD_VoidWriteNumber(u8 Number)
     }
 }
 
+// Function to set position in LCD
+void LCD_VoidSetPosition(u8 Row, u8 Column)
+{
+	if(Row == 0)
+	{
+		LCD_VoidWriteCommand(128 + Column);
+	}
+	if(Row == 1)
+	{
+		LCD_VoidWriteCommand(128 + 64 + Column);
+	}
+}
