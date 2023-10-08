@@ -9,8 +9,6 @@
 #ifndef LCD_INTERFACE_H
 #define LCD_INTERFACE_H
 
-#include "../LIB/STD_TYPES.h"
-
 // Functions prototypes
 void LCD_VoidInit(void);
 void LCD_VoidWriteCommand(u8 command);
