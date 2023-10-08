@@ -4,10 +4,10 @@
  */
 
 // Include libraries
-#include "STD_TYPES.h"
-#include "LCD_Private.h"
-#include "LCD_Interface.h"
-#include "DIO_Interface.h"
+#include "LIB/STD_TYPES.h"
+#include "MCAL/DIO_Interface.h"
+#include "HAL/LCD_Interface.h"
+#include "HAL/LCD_Interface.h"
 
 // Main function
 void main(void)

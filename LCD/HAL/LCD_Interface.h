@@ -9,7 +9,7 @@
 #ifndef LCD_INTERFACE_H
 #define LCD_INTERFACE_H
 
-#include "STD_TYPES.h"
+#include "../LIB/STD_TYPES.h"
 
 // Functions prototypes
 void LCD_VoidInit(void);
